@@ -16,7 +16,7 @@ The problem is, of course, access to safe and reliable drinking water. Quite lit
 
 The data used for this project was generously provided by the Tanzanian Ministry of Water, as well as Taarifa, an open sourced infrastructure assisting to bring water as well as awareness to the nation of Tanzania. The data covers 60,000 water wells across the country, their status (functional versus non-functional) as well as other data such as source types, age, and those responsible for it's installation. This is a ternary problem, and so there are multiple data sets to cross examine.
 
-![image]download.png
+![]
 
 
 ## Results and Conclusions
